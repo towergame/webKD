@@ -1,0 +1,17 @@
+body {
+    background: #CAE8EA url(backgr.JPG) repeat;
+}
+
+dt {
+    color: #336600;
+    font-size: 20px;
+}
+
+dd {
+    color: #33cc33;
+    letter-spacing: 4px;
+}
+
+p {
+    line-height: 40px;
+}
